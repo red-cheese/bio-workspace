@@ -1,0 +1,6 @@
+in.txt
+out.txt
+
+.*
+__pycache__
+*.pyc
