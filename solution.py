@@ -23,7 +23,7 @@ class Solution:
     def solve(self, data):
         raise NotImplementedError
 
-    def test(self):
+    def _test(self):
         pass
 
     @classmethod
@@ -61,7 +61,7 @@ class Solution:
     @staticmethod
     def test(name):
         alg = Solution.algorithm(name)
-        alg.test()
+        alg._test()
 
 
 class SimpleWriteSolution(Solution):
