@@ -9,7 +9,7 @@ from importlib import machinery
 
 
 # Default directories (repositories) with solutions.
-_DEFAULT_ALGO_DIRS = ['../rosalind/bio-stronghold']
+_DEFAULT_ALGO_DIRS = ['../rosalind/bio-stronghold', '../bio-coursera']
 
 _DEFAULT_INPUT = 'in.txt'
 _DEFAULT_OUTPUT = 'out.txt'

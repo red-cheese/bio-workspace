@@ -1,6 +1,6 @@
 A nice workspace for bioinformatics algorithmic puzzles.
 
-See https://github.com/red-cheese/rosalind-solutions for example configuration.
+See https://github.com/red-cheese/rosalind-solutions/tree/master/bio-stronghold for example configuration.
 
 Example command:
     $ python3 main.py REVC
